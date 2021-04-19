@@ -5,4 +5,5 @@
 
 ## クラス図(一部)
 メインシーンにおいてのクラス図(一部)になります。制作したゲームではこのような形で動くようにしました。
-![Class diagram](image/Class diagram.png)
+
+![Class diagram](image/Classdiagram.png)
