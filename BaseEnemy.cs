@@ -36,7 +36,7 @@ public class BaseEnemy : MonoBehaviour
 
     protected virtual void EnemyDestroy()
     {
-        //Œp³æ‚Åˆ—‚ğ‘‚­
+        //ç¶™æ‰¿å…ˆã§å‡¦ç†ã‚’æ›¸ã
     }
 
     protected void DirectionEnemyFalls()
